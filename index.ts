@@ -2,3 +2,11 @@
 //###########################           SSTech       ###################
 //###########################   Programming Courses  ###################
 //##########################
+let nam1 :number ;
+let nam2 : number ;
+let nam3 :number ;
+
+nam1= 10;
+nam2 =20;
+nam3= nam1 +nam2 ;
+console. log(nam3);
